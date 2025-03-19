@@ -1,0 +1,7 @@
+{
+  "name": "playground",
+  "type":"module",
+  "scripts": {
+    "dev": "npx vite"
+  }
+}
